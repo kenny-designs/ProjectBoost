@@ -1,6 +1,6 @@
 # ProjectBoost
 
-Play it [here!](https://kenny-designs.github.io/ProjectBoost/WebGL/)
+Play it [here!](https://kenny-designs.github.io/ProjectBoost/WebGL/index.html)
 
 Space to thrust forwards
 A to rotate left
